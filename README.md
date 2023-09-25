@@ -23,14 +23,11 @@
 
 ## 🛠 Languages and Tools
 
-<!-- For Google Cloud Platform -->
-<img align="left" alt="AWS" width="44px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />
-
 <!-- For Python -->
 <img align="left" alt="Python" width="44px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
 
 <!-- For Pandas -->
-<img align="left" alt="Pandas" width="44px" src="https://github.com/github/explore/raw/main/topics/pandas/pandas.png" />
+<img align="left" alt="Pandas" width="26px" src="https://simpleicons.org/icons/pandas.svg" />
 
 <!-- For NumPy -->
 <img align="left" alt="NumPy" width="44px" src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" />
@@ -39,7 +36,10 @@
 <img align="left" alt="Scikit-Learn" width="44px" src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" />
 
 <!-- For Seaborn -->
-<img align="left" alt="Seaborn" width="44px" src="https://github.com/github/explore/raw/main/topics/seaborn/seaborn.png" />
+<img align="left" alt="Seaborn" width="26px" src="https://simpleicons.org/icons/seaborn.svg" />
+
+<!-- For Matplotlib -->
+<img align="left" alt="Matplotlib" width="26px" src="https://simpleicons.org/icons/matplotlib.svg" />
 
 <!-- For SQLite -->
 <img align="left" alt="SQLite" width="44px" src="https://github.com/github/explore/raw/main/topics/sqlite/sqlite.png" />
