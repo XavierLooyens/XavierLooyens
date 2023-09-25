@@ -27,7 +27,7 @@
 <img align="left" alt="Python" width="44px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
 
 <!-- For Pandas -->
-<img align="left" alt="Pandas" width="26px" src="https://simpleicons.org/icons/pandas.svg" />
+<img align="left" alt="Pandas" width="26px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/pandas_logo.png" />
 
 <!-- For NumPy -->
 <img align="left" alt="NumPy" width="44px" src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" />
