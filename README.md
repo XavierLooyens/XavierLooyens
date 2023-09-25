@@ -8,35 +8,57 @@
 
 - 📫 How to reach me: xavier.looyens@gmail.com
 
-## 📬 Get in Touch
-
-- LinkedIn: (www.linkedin.com/in/xavier-looyens-173a75116)
-- Kaggle: (https://www.kaggle.com/xavierlooyens)
 
 ## 📬 Connect with me
 
 <a href="https://www.linkedin.com/in/xavier-looyens-173a75116">
-  <img align="left" alt="Xavier Looyens's LinkedIn" width="22px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/linkedin_logo.png" />
+  <img align="left" alt="Xavier Looyens's LinkedIn" width="44px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/linkedin_logo.png" />
 </a>
 <a href="https://www.kaggle.com/xavierlooyens">
-  <img align="left" alt="Xavier Looyens's Kaggle" width="22px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/kaggle_logo.png" />
+  <img align="left" alt="Xavier Looyens's Kaggle" width="44px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/kaggle_logo.png" />
 </a>
 
 <br />
 <br />
 
+## 🛠 Languages and Tools
 
-<!--
-**XavierLooyens/XavierLooyens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- For Google Cloud Platform -->
+<img align="left" alt="AWS" width="44px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />
 
-Here are some ideas to get you started:
+<!-- For Python -->
+<img align="left" alt="Python" width="44px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- For Pandas -->
+<img align="left" alt="Pandas" width="44px" src="https://github.com/github/explore/raw/main/topics/pandas/pandas.png" />
+
+<!-- For NumPy -->
+<img align="left" alt="NumPy" width="44px" src="https://github.com/github/explore/raw/main/topics/numpy/numpy.png" />
+
+<!-- For scikit-learn -->
+<img align="left" alt="Scikit-Learn" width="44px" src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" />
+
+<!-- For Seaborn -->
+<img align="left" alt="Seaborn" width="44px" src="https://github.com/github/explore/raw/main/topics/seaborn/seaborn.png" />
+
+<!-- For SQLite -->
+<img align="left" alt="SQLite" width="44px" src="https://github.com/github/explore/raw/main/topics/sqlite/sqlite.png" />
+
+<!-- For TensorFlow -->
+<img align="left" alt="TensorFlow" width="44px" src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" />
+
+<!-- For SciPy -->
+<img align="left" alt="SciPy" width="44px" src="https://github.com/github/explore/raw/main/topics/scipy/scipy.png" />
+
+<!-- For Docker -->
+<img align="left" alt="Docker" width="44px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />
+
+<!-- For Google Cloud Platform -->
+<img align="left" alt="Google Cloud Platform" width="44px" src="https://github.com/github/explore/raw/main/topics/google-cloud/google-cloud.png" />
+
+<!-- For Git -->
+<img align="left" alt="Git" width="44px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
+
+
+<br />
+<br />
