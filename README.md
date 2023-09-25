@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Xavier Looyens. 
+
+
+
+
+## 📬 Get in Touch
+
+- LinkedIn: (www.linkedin.com/in/xavier-looyens-173a75116)
+- Kaggle: (https://www.kaggle.com/xavierlooyens)
+
 
 <!--
 **XavierLooyens/XavierLooyens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
