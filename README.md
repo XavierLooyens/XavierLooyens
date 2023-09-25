@@ -36,10 +36,10 @@
 <img align="left" alt="Scikit-Learn" width="44px" src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" />
 
 <!-- For Seaborn -->
-<img align="left" alt="Seaborn" width="26px" src="https://simpleicons.org/icons/seaborn.svg" />
+<img align="left" alt="Seaborn" width="44px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/seaborn_logo.png" />
 
 <!-- For Matplotlib -->
-<img align="left" alt="Matplotlib" width="26px" src="https://simpleicons.org/icons/matplotlib.svg" />
+<img align="left" alt="Matplotlib" width="44px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/matplotlib_logo.png" />
 
 <!-- For SQLite -->
 <img align="left" alt="SQLite" width="44px" src="https://github.com/github/explore/raw/main/topics/sqlite/sqlite.png" />
