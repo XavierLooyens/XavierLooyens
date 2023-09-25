@@ -16,10 +16,10 @@
 ## 📬 Connect with me
 
 <a href="https://www.linkedin.com/in/xavier-looyens-173a75116">
-  <img align="left" alt="Xavier Looyens's LinkedIn" width="22px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/linkedin-logo.png" />
+  <img align="left" alt="Xavier Looyens's LinkedIn" width="22px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/linkedin_logo.png" />
 </a>
 <a href="https://www.kaggle.com/xavierlooyens">
-  <img align="left" alt="Xavier Looyens's Kaggle" width="22px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/kaggle-logo.png" />
+  <img align="left" alt="Xavier Looyens's Kaggle" width="22px" src="https://github.com/XavierLooyens/XavierLooyens/blob/main/kaggle_logo.png" />
 </a>
 
 <br />
