@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Xavier Looyens. 
+### Hi there 👋, I'm Xavier. 
 
 ## About me
 
@@ -6,7 +6,10 @@
 
 - 👨🏻‍💻I work as a performance marketing specialist at Precis Digital, a Swedish digital marketing agency.
 
+- 🇧🇪I'm from Antwerp, Belium but I live in London. 
+
 - 📫 How to reach me: xavier.looyens@gmail.com
+  
 
 
 ## 📬 Connect with me
