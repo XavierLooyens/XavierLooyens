@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻I work as a performance marketing specialist at Precis Digital, a Swedish digital marketing agency.
 
-- 🇧🇪I'm from Antwerp, Belium but I live in London. 
+- I live in London but I'm from Belgium 🇧🇪 
 
 - 📫 How to reach me: xavier.looyens@gmail.com
   
