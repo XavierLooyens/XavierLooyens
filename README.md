@@ -2,11 +2,13 @@
 
 ## About me
 
-- 🎓I'm a graduate the LeWagon DataScience part-time bootcamp in London, UK. I started in April and graduated in September 2023.
+- 🧑‍🏫 I'm a Data Science teaching assistant at Le Wagon after having completed the bootcamp as a top student. 
 
-- 👨🏻‍💻I work as a performance marketing specialist at Precis Digital, a Swedish digital marketing agency.
+- 🎓 I finished the LeWagon DataScience part-time bootcamp in London, UK in September 2023.
 
-- I live in London but I'm from Belgium 🇧🇪 
+- 👨🏻‍💻 I work as a performance marketing specialist at Precis Digital, a Swedish digital marketing agency.
+
+- 💂‍♀️ I live in London and I'm from Belgium 🇧🇪 
 
 - 📫 How to reach me: xavier.looyens@gmail.com
   
